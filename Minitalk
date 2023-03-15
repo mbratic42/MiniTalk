@@ -1,0 +1,66 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Marko Bratic <mbratic@c1r2p3.42vienna.com>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   minitalk/Makefile
+#	new file:   minitalk/client.c
+#	new file:   minitalk/libft/Makefile
+#	new file:   minitalk/libft/ft_atoi.c
+#	new file:   minitalk/libft/ft_bzero.c
+#	new file:   minitalk/libft/ft_calloc.c
+#	new file:   minitalk/libft/ft_isalnum.c
+#	new file:   minitalk/libft/ft_isalpha.c
+#	new file:   minitalk/libft/ft_isascii.c
+#	new file:   minitalk/libft/ft_isdigit.c
+#	new file:   minitalk/libft/ft_isprint.c
+#	new file:   minitalk/libft/ft_itoa.c
+#	new file:   minitalk/libft/ft_lstadd_back.c
+#	new file:   minitalk/libft/ft_lstadd_front.c
+#	new file:   minitalk/libft/ft_lstlast.c
+#	new file:   minitalk/libft/ft_lstnew.c
+#	new file:   minitalk/libft/ft_lstsize.c
+#	new file:   minitalk/libft/ft_memchr.c
+#	new file:   minitalk/libft/ft_memcmp.c
+#	new file:   minitalk/libft/ft_memcpy.c
+#	new file:   minitalk/libft/ft_memmove.c
+#	new file:   minitalk/libft/ft_memset.c
+#	new file:   minitalk/libft/ft_putchar_fd.c
+#	new file:   minitalk/libft/ft_putendl_fd.c
+#	new file:   minitalk/libft/ft_putnbr_fd.c
+#	new file:   minitalk/libft/ft_putstr_fd.c
+#	new file:   minitalk/libft/ft_split.c
+#	new file:   minitalk/libft/ft_strchr.c
+#	new file:   minitalk/libft/ft_strdup.c
+#	new file:   minitalk/libft/ft_striteri.c
+#	new file:   minitalk/libft/ft_strjoin.c
+#	new file:   minitalk/libft/ft_strlcat.c
+#	new file:   minitalk/libft/ft_strlcpy.c
+#	new file:   minitalk/libft/ft_strlen.c
+#	new file:   minitalk/libft/ft_strmapi.c
+#	new file:   minitalk/libft/ft_strncmp.c
+#	new file:   minitalk/libft/ft_strnstr.c
+#	new file:   minitalk/libft/ft_strrchr.c
+#	new file:   minitalk/libft/ft_strtrim.c
+#	new file:   minitalk/libft/ft_substr.c
+#	new file:   minitalk/libft/ft_tolower.c
+#	new file:   minitalk/libft/ft_toupper.c
+#	new file:   minitalk/libft/libft.h
+#	new file:   minitalk/minitalk.h
+#	new file:   minitalk/printf/Makefile
+#	new file:   minitalk/printf/ft_printf.c
+#	new file:   minitalk/printf/ft_printf.h
+#	new file:   minitalk/printf/ft_putchar.c
+#	new file:   minitalk/printf/ft_puthex.c
+#	new file:   minitalk/printf/ft_putnbr.c
+#	new file:   minitalk/printf/ft_putptr.c
+#	new file:   minitalk/printf/ft_putstr.c
+#	new file:   minitalk/printf/ft_unsigned_int.c
+#	new file:   minitalk/server.c
+#
